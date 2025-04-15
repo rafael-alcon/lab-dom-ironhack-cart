@@ -56,6 +56,10 @@ table input[type='number'] {
   background-color: #2cc5fa;
 }
 
+.btn-create {
+  background-color: #2cc5fa;
+}
+
 .btn-remove {
   background-color: #f27471;
 }
@@ -65,3 +69,5 @@ h2,
 .calculate-total {
   text-align: center;
 }
+
+
